@@ -1,0 +1,2 @@
+I:\OPEN GL 2\Crash course opengl\opengl crash course\x64\Debug\opengl crash course.exe
+I:\OPEN GL 2\Crash course opengl\opengl crash course\x64\Debug\opengl crash course.pdb
